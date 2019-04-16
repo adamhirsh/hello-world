@@ -1,2 +1,3 @@
 # hello-world
-first github repository
+
+If you get confused just listen to the music play...
